@@ -3,19 +3,19 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 80 100" style="enable-background:new 0 0 80 100;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#231F20;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#231F20;stroke-width:0.9;stroke-miterlimit:10;}
-	.st2{fill:#231F20;stroke:#231F20;stroke-miterlimit:10;}
-	.st3{fill:#231F20;}
+	.st0{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:0.9;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
 </style>
 <g id="Layer_1">
 	<g>
 		<rect x="16.5" y="36.9" class="st0" width="47.3" height="47.6"/>
 		<line class="st0" x1="26" y1="36.8" x2="26" y2="84.6"/>
-		<line class="st0" x1="16.5" y1="36.8" x2="16.5" y2="84.6"/>
+		<line class="st0" x1="16.6" y1="36.8" x2="16.6" y2="84.6"/>
 		<line class="st0" x1="63.8" y1="36.8" x2="63.8" y2="84.6"/>
 		<line class="st0" x1="44.9" y1="36.8" x2="44.9" y2="84.6"/>
-		<line class="st0" x1="35.4" y1="36.8" x2="35.4" y2="84.6"/>
+		<line class="st0" x1="35.5" y1="36.8" x2="35.5" y2="84.6"/>
 		<line class="st0" x1="54.4" y1="36.8" x2="54.4" y2="84.6"/>
 		<line class="st0" x1="64.1" y1="46.5" x2="16.3" y2="46.5"/>
 		<line class="st0" x1="64.1" y1="37.1" x2="16.3" y2="37.1"/>
@@ -25,23 +25,22 @@
 		<line class="st0" x1="64.1" y1="74.9" x2="16.3" y2="74.9"/>
 	</g>
 	<g>
-		<line class="st0" x1="14.6" y1="28.5" x2="19.5" y2="33.3"/>
-		<line class="st0" x1="19.5" y1="28.5" x2="14.6" y2="33.3"/>
-	</g>
-	<circle class="st1" cx="26" cy="30.8" r="2.7"/>
-	<circle class="st1" cx="36" cy="30.9" r="2.7"/>
-	<g>
 		<circle class="st2" cx="44.9" cy="51.5" r="2.4"/>
-		<circle class="st2" cx="63.8" cy="51.5" r="2.4"/>
 	</g>
 	<g>
-		<circle class="st2" cx="54.3" cy="60.6" r="2.4"/>
+		<circle class="st2" cx="35.4" cy="60.6" r="2.4"/>
+		<circle class="st2" cx="26" cy="60.6" r="2.4"/>
 	</g>
 	<g>
-		<path class="st3" d="M25.5,16.9c0,0.7-0.1,1.4-0.4,1.9s-0.6,1-1.1,1.3c-0.5,0.3-1,0.6-1.5,0.8c-0.6,0.2-1.1,0.2-1.7,0.2h-3.2v-8.5
-			h3.1c0.6,0,1.2,0.1,1.8,0.2c0.6,0.1,1.1,0.4,1.6,0.7s0.8,0.8,1.1,1.3C25.4,15.5,25.5,16.1,25.5,16.9z M23.4,16.9
-			c0-0.5-0.1-0.9-0.2-1.2c-0.2-0.3-0.4-0.6-0.6-0.8c-0.3-0.2-0.6-0.3-0.9-0.4s-0.7-0.1-1-0.1h-1v5h1c0.4,0,0.7,0,1.1-0.1
-			c0.3-0.1,0.6-0.2,0.9-0.4c0.3-0.2,0.5-0.4,0.6-0.8C23.3,17.8,23.4,17.4,23.4,16.9z"/>
+		<circle class="st2" cx="35.4" cy="41.6" r="2.4"/>
+		<circle class="st2" cx="44.9" cy="41.6" r="2.4"/>
+		<circle class="st2" cx="63.8" cy="41.6" r="2.4"/>
+		<circle class="st2" cx="54.4" cy="41.6" r="2.4"/>
+		<circle class="st2" cx="16.5" cy="41.6" r="2.4"/>
+		<circle class="st2" cx="26" cy="41.6" r="2.4"/>
+	</g>
+	<g>
+		<path class="st3" d="M19.6,14.5v1.8h3.3v1.7h-3.3v3.3h-2v-8.5h5.6v1.8H19.6z"/>
 	</g>
 </g>
 <g id="guides_frets_x2F_strings">
